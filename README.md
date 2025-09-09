@@ -6,7 +6,7 @@ In order to build a program from source, you need cmake and qt (qtwebengine/qtwe
 
 ### For Linux
 ```bash
-$ git clone https://github.com/723mist/Music-App-for-any-music-and-not-only-services.git
+$ git clone https://github.com/723mist/Music-App-for-any-music-services.git
 $ cd Music-App-for-any-music-and-not-only-services
 $ mkdir build 
 $ cp url.txt build/
